@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Algorithm2 {
     // Giải phương trình bậc nhất ax + b = 0.
-    public static void PhuongTrinhBacNhat(Integer a, Integer b) {
+    public static void phuongTrinhBacNhat(Integer a, Integer b) {
         if (a == 0) {
             if (b == 0) {
                 System.out.println("phương trình vô số nghiệm");
@@ -21,7 +21,7 @@ public class Algorithm2 {
         Integer a = scanner.nextInt();
         System.out.println("Nhập giá trị của b:");
         Integer b = scanner.nextInt();
-        PhuongTrinhBacNhat(a, b);
+        phuongTrinhBacNhat(a, b);
     }
 
 }

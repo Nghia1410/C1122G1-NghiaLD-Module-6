@@ -3,7 +3,7 @@ import java.util.TreeMap;
 
 public class Algorithm1 {
     // Đếm số lần xuất hiện các ký tự trong chuỗi.
-    public static void CountLetter(String input) {
+    public static void countLetter(String input) {
         Map<Character, Integer> countCharacter = new TreeMap<>();
         for (char character : input.toCharArray()) {
             if (countCharacter.containsKey(character)) {
@@ -19,6 +19,6 @@ public class Algorithm1 {
 
     public static void main(String[] args) {
         String a = "abcbdc";
-        CountLetter(a);
+        countLetter(a);
     }
 }
