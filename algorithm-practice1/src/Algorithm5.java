@@ -4,11 +4,11 @@ import java.util.Scanner;
 public class Algorithm5 {
     //Viết chương trình nhập vào một chuỗi và xác định xem chuỗi có phải là đối xứng không?
     public static Boolean kiemTraDoiXung(String input) {
+
         input = input.toLowerCase();
-        for (int i = 0, j = input.length() - 1 - i; i < input.length() / 2; i++,j--) {
-                if (input.charAt(i) != input.charAt(j)) {
+        for (int i = 0; i < input.length() / 2; i++) {
+                if (input.charAt(i) != input.charAt(input.length() - 1 - i))
                     return false;
-                }
         }
         return true;
     }
