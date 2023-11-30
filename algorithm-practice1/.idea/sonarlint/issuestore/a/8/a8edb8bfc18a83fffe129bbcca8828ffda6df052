@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€í…“
+^
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¤È‘/8Š³î©Á1
+]	java:S125"<This block of commented-out lines of code should be removed.(ãÇ¾‹ûÿÿÿÿ8Ž³î©Á1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ž³î©Á1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³î©Á1

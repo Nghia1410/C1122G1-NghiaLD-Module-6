@@ -11,3 +11,17 @@ J
 src/part_1/Algorithm6.java,5\8\58641270992a0f6ddaa5914c2e46d58c50099bbc
 J
 src/part_1/Algorithm9.java,5\8\58e66fddac4991cbd415d9d6ceeb3f3b7129a1a2
+J
+src/part_1/Algorithm5.java,2\3\23dfe9d729501a79674577ddc0e31bc90c989a65
+J
+src/part_1/Algorithm4.java,a\5\a535c7e9b5aad758bfb97b03d7db564013bbe140
+J
+src/part_2/Algorithm1.java,5\6\56b2cdeb523f322355cc2c63f66aa294d2709e96
+J
+src/part_2/Algorithm2.java,d\8\d8df4ff9064cd4cac77bfae64494628d0bf12765
+J
+src/part_2/Algorithm3.java,1\6\168bda58a687a8c7b9b5d196b15c2b7993547df3
+J
+src/part_2/Algorithm4.java,a\8\a8edb8bfc18a83fffe129bbcca8828ffda6df052
+J
+src/part_1/Algorithm1.java,e\8\e8733f032e68725ed665eff5b5b35b4514916d5d
